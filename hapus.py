@@ -1,1 +1,0 @@
-print("gw mau hapus nih file!")
