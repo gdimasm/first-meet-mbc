@@ -1,0 +1,1 @@
+print("Rekruitasi MBC 2022!")
